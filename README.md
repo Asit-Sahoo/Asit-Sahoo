@@ -64,8 +64,10 @@
 </p>
 
 ## Featured Projects
-- [Project 1](https://github.com/asit-sahoo/project1): A brief description of what this project does and the technologies used.
-- [Project 2](https://github.com/asit-sahoo/project2): Another key project and a short summary of its purpose and tools.
+- [BookHolidays](https://mern-booking-app-z2yv.onrender.com/): Created booking full stack website with user authentication, hotel booking, search functionality,
+and secure card payments, proficient in cookies management.
+- [Clone of ChatGpt.](https://asit-sahoo-mygpt.netlify.app/): Developed a ChatGPT clone with React and Gemini ai API, featuring a user-friendly interface
+and natural language processing capabilities, with speech recognition and text to speech functionality.
 
 ## GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asit-sahoo&show_icons=true&locale=en&layout=compact" alt="asit-sahoo" /></p>
