@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asit-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="asit-sahoo" /> </p>
 
 - 📫 How to reach me **https://asit-sahoo.github.io/asit-portfolio/**
+- 📫 Resume **https://drive.google.com/file/d/1U7I9lFIqp4L5ES07Xr83wL_rjUo2YOo9/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
