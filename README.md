@@ -1,93 +1,94 @@
-![logo](banner.png)
+![banner](banner.png)
 
 <h1 align="center">Hi 👋, I'm Asit Sahoo</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<p align="center">I love building software solutions and solving complex problems. Currently, I'm focused on improving my skills in full-stack development and exploring new technologies.</p>
+<h3 align="center">Associate Azure Data Engineer at Fractal</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asit-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="asit-sahoo" /> </p>
-
-- 📫 How to reach me: **[Portfolio](https://asit-sahoo.github.io/asit-portfolio/)**
-- 📄 [Resume](https://drive.google.com/file/d/1U7I9lFIqp4L5ES07Xr83wL_rjUo2YOo9/view?usp=sharing)
-
-## Achievements:
-- **CodeChef**: 3-star rated
-- **LeetCode**: 350+ problems solved
-- **GeeksforGeeks**: 450+ problems solved, Rank-25
-- **CodingNinja**: 500+ problems solved, Level-Ninja Dominator
-- **HackerRank**: 5 stars in C, C++, Java, and Python
-- **CODEFORCES**: Contest rating: 1173 (max. newbie, 1173)
-  
-## Experience:
-- **Infosys**: Web Developer Intern at Springboard (8 weeks)
-  - Worked on full-stack web development projects.
-  - Improved existing web applications and developed new features.
-  - Collaborated with a team of developers to ensure smooth project delivery.
-
-## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/asit-sahoo-a91873221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asit-sahoo-a91873221" height="30" width="40" /></a>
-<a href="https://instagram.com/asit2688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asit2688" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@asitsahoo5938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@asitsahoo5938" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/asit_3921" target="blank"> <img align="center" src="https://github.com/Asit-Sahoo/Asit-Sahoo/blob/main/codechef.png" alt="asit_3921" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/asitsahoo3921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asitsahoo3921" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/asit3921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asit3921" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asit3921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asit3921" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/asitsahoo3921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="asitsahoo3921" height="30" width="40" /></a>
+  A passionate Data Engineer dedicated to building scalable metadata-driven ELT pipelines, optimizing distributed data processing, and delivering analytics-ready datasets. Experienced in working with <b>Microsoft Azure, Azure Databricks, PySpark, and Delta Lake</b> using Medallion Architecture.
 </p>
 
-## Languages and Tools:
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
- 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=asit-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="asit-sahoo" /> 
 </p>
 
-## Featured Projects:
-- [BookHolidays](https://mern-booking-app-z2yv.onrender.com/): Created booking full stack website with user authentication, hotel booking, search functionality,
-and secure card payments, proficient in cookies management. [Code](https://github.com/Asit-Sahoo/mern-booking-app)
-- [Clone of ChatGpt](https://asit-sahoo-mygpt.netlify.app/): Developed a ChatGPT clone with React and Gemini ai API, featuring a user-friendly interface
-and natural language processing capabilities, with speech recognition and text to speech functionality. [Code](https://github.com/Asit-Sahoo/MyGpt)
+- 💼 Currently working as an **Associate Data Engineer** at **Fractal Analytics**[cite: 1]
+- 🎓 **B.Tech in Computer Science & Engineering** from Techno Main Salt Lake (CGPA: 8.60)[cite: 1]
+- 📫 How to reach me: **[Portfolio](https://asit-sahoo.github.io/asit-portfolio/)** | **asitsahoo3921@gmail.com**[cite: 1]
+- 📄 **[Resume](https://drive.google.com/file/d/1U7I9lFIqp4L5ES07Xr83wL_rjUo2YOo9/view?usp=sharing)**[cite: 1]
 
-## GitHub Stats:
+---
+
+### 🚀 Experience & Skills Summary
+
+* **Fractal Analytics** — *Associate Data Engineer* (August 2025 – Present)[cite: 1]
+  * Designed & developed scalable metadata-driven ELT pipelines using **Azure Data Factory** & **Azure Databricks**[cite: 1].
+  * Built reusable **PySpark** transformations via the *Fundamentum Framework*[cite: 1].
+  * Implemented **Delta Lake**-based pipelines following the **Bronze-Silver-Gold Medallion Architecture**[cite: 1].
+  * Enforced enterprise data governance using **Unity Catalog** and **Azure Key Vault**[cite: 1].
+* **Infosys Springboard** — *Full Stack Web Developer & ML Intern* (March 2024 – June 2024)[cite: 1]
+  * Worked with Beckn Technology, NLP, Query Tokenization, and Cosine Similarity[cite: 1].
+
+---
+
+### 🛠 Tech Stack & Tools
+
+* **Languages:** Python, SQL, PySpark, C++[cite: 1]
+* **Cloud & Big Data:** Microsoft Azure, ADF, Databricks, ADLS Gen2, Apache Spark, Delta Lake, Unity Catalog, Key Vault, Azure DevOps[cite: 1]
+* **Data Engineering:** ETL/ELT, Medallion Architecture, Metadata-driven Pipelines, Data Modeling, Data Validation, Incremental Loading, CDC[cite: 1]
+* **Databases:** SQL Server, MySQL, MongoDB[cite: 1]
+* **Tools & Fundamentals:** Git, GitHub, VS Code, Power BI, Machine Learning, AI Agents, RAG, Data Structures & Algorithms[cite: 1]
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🎯 **GATE 2025**: Qualified with AIR 10139[cite: 1]
+- 📜 **Certifications**: 
+  - PySpark Associate (Fractal)[cite: 1]
+  - SQL Developer Associate (Fractal)[cite: 1]
+  - Anthropic Certified Architect[cite: 1]
+- 💻 **Competitive Programming**:
+  - **LeetCode**: Rating 1678 (Top 14.76%) | 500+ problems solved[cite: 1]
+  - **GeeksforGeeks**: Rank 17 | 500+ problems solved[cite: 1]
+  - **CodeChef**: 3-star rated (Max 1632) | Global Rank 369 in Starters 107 Div-3[cite: 1]
+  - **HackerRank**: 5 stars in C, C++, Python[cite: 1]
+  - **Codeforces**: Max Rating 1184[cite: 1]
+  - **Naukri Code360**: Rank 20 in Contest 11[cite: 1]
+
+---
+
+### 📁 Featured Projects
+
+- 🔹 **[Retail Sales Analytics with Medallion Architecture](https://github.com/Asit-Sahoo)**[cite: 1]
+  - *Tech:* Azure Data Factory, Databricks, ADLS Gen2, Delta Lake, PySpark, Unity Catalog, Key Vault[cite: 1]
+  - Built an end-to-end metadata-driven data pipeline following Bronze-Silver-Gold architecture for KPI generation & analytics[cite: 1].
+
+- 🔹 **[HealthCare Portal](https://github.com/Asit-Sahoo)**[cite: 1]
+  - *Tech:* ReactJS, NodeJS, ExpressJS, MongoDB, Flask, Machine Learning, Chatbot[cite: 1]
+  - Full-stack platform with role-based authentication, ML-powered symptom checker, and integrated AI chatbot[cite: 1].
+
+- 🔹 **[Book Holidays](https://mern-booking-app-z2yv.onrender.com/)**[cite: 1]
+  - *Tech:* ReactJS, Tailwind CSS, ExpressJS, NodeJS, MongoDB[cite: 1]
+  - Full-stack hotel booking platform with authentication, search, and secure card payment processing[cite: 1].
+
+---
+
+### 🌐 Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/asit-sahoo-a91873221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://asit-sahoo.github.io/asit-portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" /></a>
+  <a href="https://leetcode.com/asit3921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/asit_3921" target="blank"><img align="center" src="https://github.com/Asit-Sahoo/Asit-Sahoo/blob/main/codechef.png" alt="CodeChef" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/asitsahoo3921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/asit3921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/asitsahoo3921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asit-sahoo&show_icons=true&locale=en&layout=compact" alt="asit-sahoo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asit-sahoo&show_icons=true&locale=en" alt="asit-sahoo" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=asit-sahoo&show_icons=true&locale=en" alt="asit-sahoo" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asit-sahoo&" alt="asit-sahoo" /></p>
