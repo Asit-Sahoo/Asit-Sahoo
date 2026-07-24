@@ -14,7 +14,6 @@
 - 💼 Currently working as an **Associate Data Engineer** at **Fractal Analytics**
 - 🎓 **B.Tech in Computer Science & Engineering** from Techno Main Salt Lake (CGPA: 8.60)
 - 📫 How to reach me: **[Portfolio](https://portfolio-asit.onrender.com/)** | **asitsahoo3921@gmail.com**
-- 📄 **[Resume](https://drive.google.com/file/d/1U7I9lFIqp4L5ES07Xr83wL_rjUo2YOo9/view?usp=sharing)**
 
 ---
 
