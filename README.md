@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](banner_updated.png)
 
 <h1 align="center">Hi 👋, I'm Asit Sahoo</h1>
 <h3 align="center">Associate Azure Data Engineer at Fractal</h3>
